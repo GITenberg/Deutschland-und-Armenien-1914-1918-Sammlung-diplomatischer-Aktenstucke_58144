@@ -1,11 +1,16 @@
 _repo: Deutschland-und-Armenien-1914-1918-Sammlung-diplomatischer-Aktenstucke_58144
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 58144-h/images/cover.jpg
 creator:
   author:
     agent_name: Lepsius, Johannes
     gutenberg_agent_id: '49790'
     url: http://www.gutenberg.org/2009/agents/49790
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58144#Deutschland-und-Armenien-1914-1918-Sammlung-diplomatischer-Aktenstucke
 gutenberg_issued: '2018-10-21'
 gutenberg_type: Text
 identifiers:
